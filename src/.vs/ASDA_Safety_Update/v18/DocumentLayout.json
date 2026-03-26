@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\DeltaFlash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC3CB0-D2B6-4002-921B-20A53222E4FE}|ASDA_Safety_Update\\ASDA_Safety_Update.csproj|d:\\code\\deltaflash\\asda_safety_update\\fwupdate_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFC3CB0-D2B6-4002-921B-20A53222E4FE}|ASDA_Safety_Update\\ASDA_Safety_Update.csproj|solutionrelative:asda_safety_update\\fwupdate_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC3CB0-D2B6-4002-921B-20A53222E4FE}|ASDA_Safety_Update\\ASDA_Safety_Update.csproj|d:\\code\\deltaflash\\asda_safety_update\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFC3CB0-D2B6-4002-921B-20A53222E4FE}|ASDA_Safety_Update\\ASDA_Safety_Update.csproj|solutionrelative:asda_safety_update\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC3CB0-D2B6-4002-921B-20A53222E4FE}|ASDA_Safety_Update\\ASDA_Safety_Update.csproj|d:\\code\\deltaflash\\asda_safety_update\\updatecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EFC3CB0-D2B6-4002-921B-20A53222E4FE}|ASDA_Safety_Update\\ASDA_Safety_Update.csproj|solutionrelative:asda_safety_update\\updatecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC3CB0-D2B6-4002-921B-20A53222E4FE}|ASDA_Safety_Update\\ASDA_Safety_Update.csproj|d:\\code\\deltaflash\\asda_safety_update\\fwupdate_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EFC3CB0-D2B6-4002-921B-20A53222E4FE}|ASDA_Safety_Update\\ASDA_Safety_Update.csproj|solutionrelative:asda_safety_update\\fwupdate_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC3CB0-D2B6-4002-921B-20A53222E4FE}|ASDA_Safety_Update\\ASDA_Safety_Update.csproj|d:\\code\\deltaflash\\asda_safety_update\\password_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EFC3CB0-D2B6-4002-921B-20A53222E4FE}|ASDA_Safety_Update\\ASDA_Safety_Update.csproj|solutionrelative:asda_safety_update\\password_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ASDA_Safety_Update||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFC3CB0-D2B6-4002-921B-20A53222E4FE}|ASDA_Safety_Update\\ASDA_Safety_Update.csproj|d:\\code\\deltaflash\\asda_safety_update\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FwUpdate_F.cs",
+              "DocumentMoniker": "D:\\Code\\DeltaFlash\\ASDA_Safety_Update\\FwUpdate_F.cs",
+              "RelativeDocumentMoniker": "ASDA_Safety_Update\\FwUpdate_F.cs",
+              "ToolTip": "D:\\Code\\DeltaFlash\\ASDA_Safety_Update\\FwUpdate_F.cs",
+              "RelativeToolTip": "ASDA_Safety_Update\\FwUpdate_F.cs",
+              "ViewState": "AgIAAFQDAAAAAAAAAAAIwFoDAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T12:26:41.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateControl.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Code\\DeltaFlash\\ASDA_Safety_Update\\UpdateControl.cs",
+              "RelativeDocumentMoniker": "ASDA_Safety_Update\\UpdateControl.cs",
+              "ToolTip": "D:\\Code\\DeltaFlash\\ASDA_Safety_Update\\UpdateControl.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ASDA_Safety_Update\\UpdateControl.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T12:25:44.376Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FwUpdate_F.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Code\\DeltaFlash\\ASDA_Safety_Update\\FwUpdate_F.cs",
+              "RelativeDocumentMoniker": "ASDA_Safety_Update\\FwUpdate_F.cs",
+              "ToolTip": "D:\\Code\\DeltaFlash\\ASDA_Safety_Update\\FwUpdate_F.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ASDA_Safety_Update\\FwUpdate_F.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T12:25:23.725Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Password_F.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Code\\DeltaFlash\\ASDA_Safety_Update\\Password_F.cs",
+              "RelativeDocumentMoniker": "ASDA_Safety_Update\\Password_F.cs",
+              "ToolTip": "D:\\Code\\DeltaFlash\\ASDA_Safety_Update\\Password_F.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ASDA_Safety_Update\\Password_F.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T12:25:14.427Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DeltaFlash\\ASDA_Safety_Update\\Program.cs",
+              "RelativeDocumentMoniker": "ASDA_Safety_Update\\Program.cs",
+              "ToolTip": "D:\\Code\\DeltaFlash\\ASDA_Safety_Update\\Program.cs",
+              "RelativeToolTip": "ASDA_Safety_Update\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T12:23:30.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ASDA_Safety_Update",
+              "DocumentMoniker": "D:\\Code\\DeltaFlash\\ASDA_Safety_Update\\ASDA_Safety_Update.csproj",
+              "RelativeDocumentMoniker": "ASDA_Safety_Update\\ASDA_Safety_Update.csproj",
+              "ToolTip": "D:\\Code\\DeltaFlash\\ASDA_Safety_Update\\ASDA_Safety_Update.csproj",
+              "RelativeToolTip": "ASDA_Safety_Update\\ASDA_Safety_Update.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-26T12:22:49.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
